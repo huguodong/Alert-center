@@ -1,0 +1,7 @@
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\AndroidAlertCenter.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\AlertCenter.Android.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\System.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Debug\assemblies\System.Xml.dll

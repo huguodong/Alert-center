@@ -1,0 +1,14 @@
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\bin\Release\AndroidAlertCenter.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\bin\Release\AndroidAlertCenter.AndroidAlertCenter.apk
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\bin\Release\AndroidAlertCenter.AndroidAlertCenter-Signed.apk
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\bin\Release\AlertCenter.Android.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\AlertCenter.Android.Sample.csprojResolveAssemblyReference.cache
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\AndroidAlertCenter.dll
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\android\bin\AndroidAlertCenter.AndroidAlertCenter.apk
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\res\layout\main.xml
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\res\values\strings.xml
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\res\drawable\icon.png
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\res\anim\collapse.xml
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\res\anim\expand.xml
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\R.cs.flag
+E:\xamarin\alert-center-1.0.6\samples\AlertCenter.Android.Sample\obj\Release\uploadflags.txt
